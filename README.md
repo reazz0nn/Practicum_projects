@@ -22,6 +22,6 @@
   <tr>
         <td><a href="analysis_of_the_gaming_industry">Анализ игровой индустрии</a></td>
         <td>Агентству нужен готовый анализ объявлений о продаже жилой недвижимости в Санкт-Петербурге и Ленинградской области, чтобы найти самые перспективные сегменты недвижимости.</td>
-        <td>DBeaver,SQL,Yandex Datalens</td>
+        <td>Jupyter Notebook,Pandas,NumPy</td>
     </tr>
 </table>
