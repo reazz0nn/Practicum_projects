@@ -25,6 +25,11 @@
         <td>Jupyter Notebook,Pandas,NumPy</td>
     </tr>
    <tr>
+        <td><a href="catering_establishments_in_Moscow">Анализ рынка заведений общественного питания Москвы</a></td>
+        <td>Агентству нужен готовый анализ объявлений о продаже жилой недвижимости в Санкт-Петербурге и Ленинградской области, чтобы найти самые перспективные сегменты недвижимости.</td>
+        <td>Jupyter Notebook,Pandas,NumPy</td>
+    </tr>
+   <tr>
         <td><a href="https://datalens.yandex/rmx7tkqsq7sad">Метрики сервиса доставки еды</a></td>
         <td>Агентству нужен готовый анализ объявлений о продаже жилой недвижимости в Санкт-Петербурге и Ленинградской области, чтобы найти самые перспективные сегменты недвижимости.</td>
         <td>Yandex Datalens</td>
@@ -32,7 +37,7 @@
    <tr>
         <td><a href="startup_research">Исследование стартапов</a></td>
         <td>Агентству нужен готовый анализ объявлений о продаже жилой недвижимости в Санкт-Петербурге и Ленинградской области, чтобы найти самые перспективные сегменты недвижимости.</td>
-        <td>Jupyter Notebook,Pandas,NumPy,MatPlotLib,SciPy</td>
+        <td>Jupyter Notebook,Pandas,NumPy,MatPlotLib,Phik,Seaborn</td>
     </tr>
   <tr>
         <td><a href="yandex_afisha">Исследование данных Яндекс Афиши</a></td>
