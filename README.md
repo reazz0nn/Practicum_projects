@@ -25,7 +25,7 @@
         <td>Jupyter Notebook,Pandas,NumPy</td>
     </tr>
    <tr>
-        <td><a href="catering_establishments_in_Moscow">Анализ рынка заведений общественного питания Москвы</a></td>
+        <td><a href="catering_establishments_in_Moscow">Анализ рынка общепита Москвы</a></td>
         <td>Агентству нужен готовый анализ объявлений о продаже жилой недвижимости в Санкт-Петербурге и Ленинградской области, чтобы найти самые перспективные сегменты недвижимости.</td>
         <td>Jupyter Notebook,Pandas,NumPy</td>
     </tr>
