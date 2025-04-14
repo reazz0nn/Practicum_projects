@@ -15,7 +15,7 @@
         <td>Yandex Datalens</td>
     </tr>
   <tr>
-        <td><a href = "https://datalens.yandex/v8uu4bm4sr28i">Продажи жилой недвижимости</a></td>
+        <td><a href="Practicum_projects/slae of real estate">Продажи жилой недвижимости</a></td>
         <td>Агентству нужен готовый анализ объявлений о продаже жилой недвижимости в Санкт-Петербурге и Ленинградской области, чтобы найти самые перспективные сегменты недвижимости.</td>
         <td>SQL,Yandex Datalens</td>
     </tr>
